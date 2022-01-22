@@ -19,10 +19,3 @@ export function Card(props) {
 		</div>
 	);
 }
-Card.PropTypes = {
-	titulo: PropType.string,
-	descripcion: PropType.string,
-	buttonUrl: PropType.string,
-	buttonLabel: PropType.string,
-	imageUrl: PropType.string,
-};

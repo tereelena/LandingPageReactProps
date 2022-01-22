@@ -12,6 +12,7 @@ const lista = [
 		titulo: "Paul McCartney",
 		descripcion:
 			"James Paul McCartney (Liverpool, Merseyside; 18 de junio de 1942) es un cantautor, compositor, músico, multiinstrumentista, escritor, activista, pintor y actor británico; ",
+		buttonUrl: "https://es.wikipedia.org/wiki/Paul_McCartney",
 		imageUrl:
 			"https://i0.wp.com/www.textual.cl/wp-content/uploads/2021/10/Paul-McCartney-se-refirio-a-la-ruptura-de-The-Beatles-en-una-entrevista-con-BBC.jpg?resize=696%2C458&ssl=1",
 		buttonLabel: "GO Wikipedia",
